@@ -7,7 +7,13 @@ abstract public class Conta {
 	protected double saldo;
 
 	public void deposita(double valor) {
+		if(valor <0) {
+			throw new ValorInvalidoException("Valor :" + valor + " é negativo!");
+			
+		}
+		else {
 		this.saldo += valor;
+		}
 	}
 
 	public void saca(double valor) {
