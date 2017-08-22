@@ -3,7 +3,7 @@
  */
 package Itens;
 
-public class Aula implements Comparable<Aula>{
+public class Aula implements Comparable<Aula> {
 	private String titulo;
 	private int tempo;
 
@@ -12,7 +12,7 @@ public class Aula implements Comparable<Aula>{
 	}
 
 	public Aula(String titulo, int tempo) {
-		
+
 		this.titulo = titulo;
 		this.tempo = tempo;
 	}
@@ -27,15 +27,14 @@ public class Aula implements Comparable<Aula>{
 
 	@Override
 	public String toString() {
-		
+
 		return "Aula :" + this.titulo + this.tempo + " Minutos";
 	}
+
 	@Override
 	public int compareTo(Aula outraAula) {
 		return this.titulo.compareTo(outraAula.getTitulo());
 
 	}
-	
 
-	
 }
