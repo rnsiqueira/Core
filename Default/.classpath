@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/JARs/junit4.jar/junit4.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/scalalogging-log4j_2.10.0-rc1-0.4.0.jar/scalalogging-log4j_2.10.0-rc1-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/selenium-2.0a7.jar/selenium-2.0a7.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/selenium-chrome-driver-2.0a4.jar/selenium-chrome-driver-2.0a4.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/selenium-java-2.0.0.jar/selenium-java-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/selenium-java-client-driver.jar/selenium-java-client-driver.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/selenium-junit4-runner-1.0.6.jar/selenium-junit4-runner-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/selenium-remote-client-2.0a7.jar/selenium-remote-client-2.0a7.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/selenium-server-0.9.0.jar/selenium-server-0.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/simple-log-commons-logging-2.0.1.jar/simple-log-commons-logging-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/spring-webmvc-3.2.4.release.jar/spring-webmvc-3.2.4.release.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
