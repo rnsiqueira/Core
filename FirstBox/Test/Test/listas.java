@@ -2,8 +2,6 @@ package Test;
 
 import java.util.function.Consumer;
 
-import Itens.Consultor;
-
 public class listas implements Consumer<String> {
 
 	@Override
