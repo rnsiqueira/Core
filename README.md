@@ -1,1 +1,1 @@
-This is a draft repository.
+This is just a draft repository.
